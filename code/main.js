@@ -14,6 +14,7 @@ loadSprite("blast1", "sprites/blast1.png");
 loadSprite("ball2", "sprites/ball2.png");
 loadSprite("ball1", "sprites/ball1.png");
 loadSprite("ball3", "sprites/ball3.png");
+loadSprite("edit", "sprites/edit.png");
 
 // loading music
 loadSound("bgm", "sounds/bgm.mp3");
